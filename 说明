@@ -1,0 +1,15 @@
+潽金融资租赁sit环境 socket服务端
+实际生产结构如下：
+pjss
+|____log							日志目录
+|____conf							配置文件目录
+	 |____pjss.properties			配置文件
+|____pjss.jar						执行文件
+|____stop_pjss.sh					启动程序
+|____start_pjss.sh					结束程序
+     
+    
+ 
+     
+     
+     
